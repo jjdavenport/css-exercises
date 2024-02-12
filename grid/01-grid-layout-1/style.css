@@ -6,8 +6,8 @@ html {
 
 .container {
   display: grid;
-  grid-template-rows: auto auto auto auto;;
-  grid-template-columns: auto auto;
+  grid-template-rows: 8vh 10vh auto 8vh;
+  grid-template-columns: 30vw auto; 
   gap: 15px;
   text-align: center;
   height: 100%;
